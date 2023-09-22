@@ -29,3 +29,28 @@ console.log(checkLogin); */
 let num1ToString = String(num1)
 console.log(num1ToString);
 console.log(typeof num1ToString); */
+
+// ************* OPERATIONS ****************
+
+/* let value = 3;
+let negValue = -value;
+console.log(negValue); */
+
+/* console.log(2 + 2);
+console.log(2 - 2);
+console.log(2 * 2);
+console.log(2 / 2);
+console.log(2 ** 2);
+console.log(2 % 3); */
+
+/* let str1 = 'Hello'
+let str2 = ' John'
+let str3 = str1 + str2
+console.log(str3); */
+
+/* console.log('1' + 2 + 3 + 4);
+console.log(1 + 2 + '20'); */
+
+/* let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter); */
